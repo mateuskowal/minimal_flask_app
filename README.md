@@ -45,6 +45,7 @@ Create an environment and activate it using this commands:
 `$ . venv/bin/activate`
 
 Next install flask and run the app:
+
 `$ pip install Flask`
 
 `$ export FLASK_APP=hello`
