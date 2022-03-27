@@ -36,6 +36,7 @@ Next install flask and run the app:
 - Linux/MacOS
 
 Create an environment and activate it using this commands:
+
 `$ mkdir folder_name`
 
 `$ cd folder_name`
